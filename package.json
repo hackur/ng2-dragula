@@ -52,10 +52,10 @@
     "dragula": "^3.7.2"
   },
   "peerDependencies": {
-    "@angular/common": "^2.0.0",
-    "@angular/core": "^2.0.0",
-    "@angular/compiler": "^2.0.0",
-    "@angular/forms": "^2.0.0"
+    "@angular/common": "^2.1.2",
+    "@angular/core": "^2.1.2",
+    "@angular/compiler": "^2.1.2",
+    "@angular/forms": "^2.1.2"
   },
   "devDependencies": {
     "@angular/common": "2.1.0",
